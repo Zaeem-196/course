@@ -1,9 +1,3 @@
 # course
 course
-
-this is note 
- 
- 
- 
- 
- this ahmed hail 
+this is abo azooz
